@@ -1,8 +1,8 @@
-# Osaka
+# Hokkaido
 
-A list of travel spots in Osaka.
+A list of travel spots in Hokkaido.
 
-**Main spot types:** Street food, nightlife, shopping, historical sites
+**Main spot types:** Nature, national parks, hot springs, winter sports, seafood
 
 ---
 

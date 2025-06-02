@@ -1,8 +1,8 @@
-# Osaka
+# Nara
 
-A list of travel spots in Osaka.
+A list of travel spots in Nara.
 
-**Main spot types:** Street food, nightlife, shopping, historical sites
+**Main spot types:** Historical temples, deer park, traditional gardens, ancient sites
 
 ---
 

@@ -1,8 +1,8 @@
-# Osaka
+# Okinawa
 
-A list of travel spots in Osaka.
+A list of travel spots in Okinawa.
 
-**Main spot types:** Street food, nightlife, shopping, historical sites
+**Main spot types:** Beaches, tropical islands, marine activities, Ryukyu culture, historical sites
 
 ---
 
