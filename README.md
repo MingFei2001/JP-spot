@@ -2,6 +2,8 @@
 
 A collection of Japan travel spots, organized by region.
 
+This repository is for personal reference and planning. Each region has its own markdown file listing notable places, experiences, and tips.
+
 ## Regions
 
 - [Tokyo](./Tokyo.md)
