@@ -17,32 +17,19 @@ These aren't comprehensive guides or must-see lists—just places that made me p
 
 ---
 
-## A few notes
+## About this collection
 
-Each file contains places I've collected online, along with whatever details seemed worth saving at the time. Nothing fancy—just locations, brief descriptions, and the occasional note from someone who's actually been there.
+Started this mainly because I kept losing track of interesting places I'd seen online. Each file contains spots I've collected from various sources—nothing fancy, just locations and brief descriptions with occasional notes from people who've actually been there.
 
-If you're planning a trip and find something useful here, that's great. If you've been to these places and have your own thoughts, even better.
+The organization is pretty loose. Places are added as I find them, not in any particular order. Since these come from online sources, I can't vouch for accuracy of details like opening hours. Always double-check practical info before making plans.
 
-## How this is organized
+If you're planning a trip and find something useful here, great. If you've been to these places and have thoughts to share, even better. I add to this as I discover new places online—sometimes several in a week, other times months go by with nothing new.
 
-Each region file is pretty loose in structure—places are added as I find them, not in any particular order. I try to include basic details like location, what makes it interesting, and sometimes a note about timing or practical considerations if someone mentioned them.
-
-## A word about the information
-
-Since these come from various online sources, I can't vouch for accuracy of details like opening hours or current conditions. It's more about capturing what seemed appealing at the time. Always double-check practical info before making plans.
-
-## What might come next
-
-I add to this as I discover new places online. Eventually I might include:
-
-- Photos from people who've been there, if I find good ones to include
-- Maps, when I figure out a good way to include them
-- More detailed notes about what makes each place interesting
-- Additional regions as I get around to visiting them
+Eventually I might include photos from travelers, maps, or more detailed notes. For now, it's useful for planning trips and daydreaming about travel.
 
 ---
 
-Feel free to use whatever you find helpful here. Safe travels.
+Feel free to use whatever seems helpful here. Whether you visit these places or just enjoy imagining them, sometimes the planning is half the fun. Safe travels.
 
 ## License
 
