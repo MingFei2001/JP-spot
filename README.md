@@ -11,3 +11,7 @@ A collection of Japan travel spots, organized by region.
 ---
 
 Each link leads to a markdown file with travel spots for that region.
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
