@@ -4,14 +4,9 @@ A collection of Japan travel spots, organized by region.
 
 ## Regions
 
-- [Hokkaido](./Hokkaido.md)
-- [Tohoku](./Tohoku.md)
-- [Kanto](./Kanto.md)
-- [Chubu](./Chubu.md)
-- [Kansai](./Kansai.md)
-- [Chugoku](./Chugoku.md)
-- [Shikoku](./Shikoku.md)
-- [Kyushu & Okinawa](./Kyushu_Okinawa.md)
+- [Tokyo](./Tokyo.md)
+- [Osaka](./Osaka.md)
+- [Kyoto](./Kyoto.md)
 
 ---
 
