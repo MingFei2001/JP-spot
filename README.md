@@ -8,6 +8,8 @@ These aren't comprehensive guides or must-see lists—just places that made me p
 
 ## Destinations
 
+![Japan Regions Map](./media/Japan-Regions-Map.jpg)
+
 - [Tokyo](./kanto/Tokyo.md) - The capital's many faces
 - [Osaka](./kansai/Osaka.md) - Good food and friendly people
 - [Kyoto](./kansai/Kyoto.md) - Old temples and quiet gardens
