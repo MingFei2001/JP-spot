@@ -5,6 +5,7 @@ Osaka is Japan's kitchen and the heart of Kansai culture. Known for its food sce
 **Main spot types:** Street food, nightlife, shopping, historical sites
 
 Jump to topic from here
+- [Shopping](#shopping)
 - [Food](#food)
 
 <!--
@@ -30,7 +31,7 @@ Copy and use the above template for each spot entry
 
 -->
 
-## Food
+## Shopping
 
 ### KITTE OSAKA
 
@@ -47,22 +48,7 @@ A newly developed complex right next to Osaka Station. KITTE Osaka mixes shoppin
 
 ---
 
-## HARETOKE Sake Seller
-
-![]()
-
-| Field                        | Value                       |
-| ---------------------------- | --------------------------- |
-| **Type**                     | Specialty Store / Alcohol   |
-| **Nearest Station**          | Umeda Station               |
-| **Google Maps**              | [Link]()                    |
-| **Recommended Season/Month** | Autumn–Winter (sake season) |
-
-A calm and curated sake shop tucked in the city bustle. They focus on smaller brewers and seasonal selections—stuff you probably won’t find in typical stores. Good for picking up gifts or something to enjoy in the hotel after a long day. Staff are known to be friendly and willing to explain the bottles if you’re curious.
-
----
-
-## Grand Green Osaka
+### Grand Green Osaka
 
 | Field                        | Value                    |
 | ---------------------------- | ------------------------ |
@@ -75,7 +61,7 @@ A large green redevelopment project near the heart of Umeda. Still new but alrea
 
 ---
 
-## Inogate Osaka
+### Inogate Osaka
 
 | Field                        | Value                 |
 | ---------------------------- | --------------------- |
@@ -88,7 +74,11 @@ Right under the tracks, this place has a mix of casual eateries and stylish shop
 
 ---
 
-## YAKINIKU IZAKAYA ONINI KANABO Fukushima
+## Food
+
+> Below are foods in Osaka.
+
+### YAKINIKU IZAKAYA ONINI KANABO Fukushima
 
 | Field                        | Value                        |
 | ---------------------------- | ---------------------------- |
@@ -101,7 +91,7 @@ Cozy, smoky, and flavorful. A small spot specializing in grilled meats with just
 
 ---
 
-## Stand Bar Jack & Matilda
+### Stand Bar Jack & Matilda
 
 | Field                        | Value                          |
 | ---------------------------- | ------------------------------ |
@@ -114,7 +104,7 @@ A standing bar with warm lighting and good energy. Feels like you’re stepping 
 
 ---
 
-## Moeyo Mensuke
+### Moeyo Mensuke
 
 | Field                        | Value                |
 | ---------------------------- | -------------------- |
@@ -127,7 +117,7 @@ A standout ramen shop with a deep, umami-rich broth and firm noodles. There’s 
 
 ---
 
-## Ramen Jinsei JET
+### Ramen Jinsei JET
 
 | Field                        | Value             |
 | ---------------------------- | ----------------- |
@@ -140,7 +130,7 @@ Bold flavors, loud atmosphere, and a name you won’t forget. Known for their ri
 
 ---
 
-## Ressi Shoyu Menkobo Sanku
+### Ressi Shoyu Menkobo Sanku
 
 | Field                        | Value                  |
 | ---------------------------- | ---------------------- |
@@ -152,3 +142,16 @@ Bold flavors, loud atmosphere, and a name you won’t forget. Known for their ri
 A refined bowl of ramen that leans traditional. Their shoyu broth is delicate but deep, and the toppings are arranged with care. A quieter spot compared to others nearby—good for solo diners or those in need of something restorative.
 
 ---
+
+### HARETOKE Sake Seller
+
+![]()
+
+| Field                        | Value                       |
+| ---------------------------- | --------------------------- |
+| **Type**                     | Specialty Store / Alcohol   |
+| **Nearest Station**          | Umeda Station               |
+| **Google Maps**              | [Link]()                    |
+| **Recommended Season/Month** | Autumn–Winter (sake season) |
+
+A calm and curated sake shop tucked in the city bustle. They focus on smaller brewers and seasonal selections—stuff you probably won’t find in typical stores. Good for picking up gifts or something to enjoy in the hotel after a long day. Staff are known to be friendly and willing to explain the bottles if you’re curious.
