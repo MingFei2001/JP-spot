@@ -34,6 +34,7 @@ Copy and use the above template for each spot entry
 -->
 
 ## Shopping
+> Below are some hot shopping spot
 
 ### KITTE OSAKA
 
