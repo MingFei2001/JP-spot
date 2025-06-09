@@ -10,12 +10,16 @@ A list of travel spots in Osaka.
 
 ### Spot Name
 
-- **Type:**
-- **Nearest Station:**
-- **Google Maps:** [Link]()
-- **Description:**
-- **Recommended Season/Month:**
-- **Remarks:**
+| Field | Value |
+|-------|-------|
+| **Type** | |
+| **Nearest Station** | |
+| **Google Maps** | [Link]() |
+| **Recommended Season/Month** | |
+
+Description goes here.
+
+---
 
 Copy and use the above template for each spot entry
 
