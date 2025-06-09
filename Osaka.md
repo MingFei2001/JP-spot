@@ -4,6 +4,9 @@ Osaka is Japan's kitchen and the heart of Kansai culture. Known for its food sce
 
 **Main spot types:** Street food, nightlife, shopping, historical sites
 
+Jump to topic from here
+- [Food](#food)
+
 <!--
 
 ## Spot Template
@@ -26,6 +29,8 @@ Description goes here.
 Copy and use the above template for each spot entry
 
 -->
+
+## Food
 
 ### KITTE OSAKA
 
