@@ -21,6 +21,7 @@ Jump to topic from here
 | Field | Value |
 |-------|-------|
 | **Type** | |
+| Description | |
 | **Nearest Station** | |
 | **Google Maps** | [Link]() |
 | **Recommended Season/Month** | |
