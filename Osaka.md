@@ -10,6 +10,8 @@ Osaka is Japan's kitchen and the heart of Kansai culture. Known for its food sce
 
 ### Spot Name
 
+![]()
+
 | Field | Value |
 |-------|-------|
 | **Type** | |
